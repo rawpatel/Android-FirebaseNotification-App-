@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Notification</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="user_email_id">User Email id</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="firebase_notification_demo">Firebase Notification Demo</string>
+    <string name="by_surendra_patel">By Surendra Patel</string>
+    <string name="user_details">User Details</string>
+</resources>
